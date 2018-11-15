@@ -33,5 +33,5 @@ function Get-VM-Statistic ( ){
 }
 
 
-
+#example use
 Get-VM-Statistic -HyperV_Server hv01
